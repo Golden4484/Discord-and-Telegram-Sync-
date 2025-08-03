@@ -51,8 +51,8 @@ pip install -r requirements.txt
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/discord-telegram-sync.git
-   cd discord-telegram-sync
+   git https://github.com/Golden4484/Discord-and-Telegram-Sync-
+   cd Discord-and-Telegram-Sync
    ```
 
 2. **Edit configuration:**
@@ -72,7 +72,7 @@ pip install -r requirements.txt
 3. **Run the bot:**
 
    ```bash
-   python discord_telegram_sync.py
+   python main.py
    ```
 
    The bot will connect to Discord and start polling Telegram for messages.
@@ -112,4 +112,4 @@ For any questions, issues, or suggestions, please open an issue on GitHub.
 
 ---
 
-**Maintained by [Your Name or Organization].**
+**Maintained by Golden4484.**
