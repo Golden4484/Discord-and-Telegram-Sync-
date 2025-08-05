@@ -3,8 +3,7 @@
 > ⚠️ **Warning:** This project is still under development.  
 > Some bugs may occur, especially with complex attachments such as large images, certain document formats, or high-volume media forwarding. Use with caution in production environments.
 
-> ℹ️ **Important:** This project’s documentation is written in Brazilian Portuguese (pt-BR).  
-> While the codebase is in English, explanations and setup instructions are currently provided in Portuguese.
+> ℹ️ **Important:** This project has 2 types of translation versions in the "main.py" code, the first being (pt|br) and the other being normal English. The file in the Portuguese language is highlighted, while the English one is in the normal name (main.py)
 
 ---
 
